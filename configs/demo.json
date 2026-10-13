@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "domains": [
+    "tf-widgets.com",
+    "*.tf-widgets.com"
+  ],
+  "widget": "chat",
+  "phone": "15551234567",
+  "message": "Hi! I have a question.",
+  "agent": {
+    "name": "Anna",
+    "status": "Typically replies within an hour",
+    "photo": "",
+    "online": true
+  },
+  "greeting": "Hi there 👋\nHow can I help you?",
+  "buttonText": "Chat on WhatsApp",
+  "position": "right",
+  "launcher": {
+    "text": "",
+    "badge": true
+  },
+  "autoOpen": {
+    "enabled": false,
+    "delay": 10
+  },
+  "style": {
+    "colors": {
+      "header": "#128c7e",
+      "headerText": "#ffffff",
+      "chat": "#efeae2",
+      "accent": "#25d366",
+      "accentText": "#ffffff"
+    },
+    "sizes": {
+      "width": 360,
+      "radius": 16
+    }
+  }
+}
